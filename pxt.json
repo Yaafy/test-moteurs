@@ -1,5 +1,5 @@
 {
-    "name": "Test moteurs",
+    "name": "Test leds moteurs",
     "description": "",
     "dependencies": {
         "core": "*",
